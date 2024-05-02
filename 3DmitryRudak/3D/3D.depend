@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714637160 source:c:\users\zxc\desktop\3dmitryrudak\3d\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
